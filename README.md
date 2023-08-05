@@ -14,7 +14,7 @@ def['Verb']
 ```
 ## Optional Keyword Arguments
 subdomain
-- subdomain to prepend to `.wiktionary.org` (e.g., 'en', 'fr', 'simple')
+- subdomain to prepend to `.wiktionary.org` (e.g., 'en', 'fr')
 - default is 'en'
 
 language
